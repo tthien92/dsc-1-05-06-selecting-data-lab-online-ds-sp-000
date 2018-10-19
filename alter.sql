@@ -1,0 +1,1 @@
+ALTER TABLE planets ADD COLUMN rings BIT default 'FALSE';
